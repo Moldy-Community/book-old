@@ -4,14 +4,13 @@ Hi this is the section of the our contributors help to moldy-community the statu
 
 1. **@TeoDev1611** the project founder of moldy and CLI and Book starter **STATUS** Active **SOCIAL MEDIA** [here](https://github.com/TeoDev1611)
 
-2. **@Junix7** the website creator **STATUS** Semi-Active **SOCIAL MEDIA** [here](https://linktr.ee/junix)
+1. **@Junix7** the website creator **STATUS** Semi-Active **SOCIAL MEDIA** [here](https://linktr.ee/junix)
 
-3. **@NikolaM-Dev** the icon designer of moldy **STATUS**  Inactive **SOCIAL MEDIA** [here](https://github.com/NikolaM-Dev)
+1. **@NikolaM-Dev** the icon designer of moldy **STATUS**  Inactive **SOCIAL MEDIA** [here](https://github.com/NikolaM-Dev)
 
-4. **@Matias Blanc** the discord helper and administrator of Moldy's social networks **STATUS** Active **SOCIAL MEDIA**[here](https://linktr.ee/senderotecnologico)
+1. **@Matias Blanc** the discord helper and administrator of Moldy's social networks **STATUS** Active **SOCIAL MEDIA**[here](https://linktr.ee/senderotecnologico)
 
-5. **@Diamonds-Lang** special thanks to this language for the book theme **SOCIAL MEDIA** [here](https://github.com/diamonds-lang/book)
-
+1. **@Diamonds-Lang** special thanks to this language for the book theme **SOCIAL MEDIA** [here](https://github.com/diamonds-lang/book)
 
 ## How show here?
 

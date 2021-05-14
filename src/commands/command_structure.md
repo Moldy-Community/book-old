@@ -14,6 +14,5 @@ moldy [command] {flag}
 
 ## Flags
 
-1. Flag name 
-2. Flag name 2
-
+1. Flag name
+1. Flag name 2

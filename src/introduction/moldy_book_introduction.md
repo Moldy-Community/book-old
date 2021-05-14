@@ -1,6 +1,7 @@
 # Moldy Book Introduction
 
-This book is created for know: 
+This book is created for know:
+
 - What is moldy?
 - How contribute?
 - The blog help

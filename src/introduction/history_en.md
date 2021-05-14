@@ -19,5 +19,5 @@ A simple but powerful tool without thousands of commands but in case you need th
 Moldy is on the following social networks
 
 1. [Twitter](https://twitter.com/CommunityMoldy)
-2. [Discord](https://discord.gg/2uwzhmJdfw)
-3. [Github](https://github.com/Moldy-Community)
+1. [Discord](https://discord.gg/2uwzhmJdfw)
+1. [Github](https://github.com/Moldy-Community)
