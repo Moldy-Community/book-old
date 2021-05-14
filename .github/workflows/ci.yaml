@@ -22,4 +22,6 @@ jobs:
 
       - name: Format the file
         run : mdformat ./src
-        echo "Book deployed in https://moldy-book.netlify.app/"
+      - name: Export the name on deploy
+        run : |
+          echo "Book deployed in https://moldy-book.netlify.app/"
