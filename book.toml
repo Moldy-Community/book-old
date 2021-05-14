@@ -6,6 +6,8 @@ src = "src"
 title = "Moldy Book and News"
 
 [output.html]
+theme = "/theme"
+copy-fonts = false
 mathjax-support = true
 site-url = "/book/"
 git-repository-url = "https://github.com/Moldy-Community/book"
@@ -23,3 +25,7 @@ boost-hierarchy = 2
 boost-paragraph = 1
 expand = true
 heading-split-level = 2
+
+[build]
+build-dir = "build"
+
