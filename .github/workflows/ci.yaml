@@ -22,3 +22,4 @@ jobs:
 
       - name: Format the file
         run : mdformat ./src
+        echo "Book deployed in https://moldy-book.netlify.app/"
