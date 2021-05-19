@@ -10,9 +10,9 @@ Hi this is the section of the our contributors help to moldy-community the statu
 
 4. **@Matias Blanc** the discord helper and administrator of Moldy's social media **SOCIAL MEDIA**[here](https://linktr.ee/senderotecnologico)
 
-5. **@Diamonds-Lang** special thanks to this language for the book theme **SOCIAL MEDIA** [here](https://github.com/diamonds-lang/book)
+5. **@Diamonds-Lang** special thanks to this language for the book theme **SOCIAL MEDIA** [here](https://github.com/diamonds-lang)
 
-6. **@Santiago Vásquez(Polibov)** the API developer special thanks to her for made the Moldy API very nice :D **SOCIAL MEDIA** [here](https://github.com/SantiagoVA)
+6. **@Polibov** the API developer special thanks to her for made the Moldy API very nice :D **SOCIAL MEDIA** [here](https://github.com/SantiagoVA)
 
 ## How show here?
 
