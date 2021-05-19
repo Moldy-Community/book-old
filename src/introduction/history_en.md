@@ -21,3 +21,5 @@ Moldy is on the following social networks
 1. [Twitter](https://twitter.com/CommunityMoldy)
 1. [Discord](https://discord.gg/2uwzhmJdfw)
 1. [Github](https://github.com/Moldy-Community)
+
+#### Made with ❤️ in the World by the Moldy Community Contributors.

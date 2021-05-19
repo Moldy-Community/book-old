@@ -1,0 +1,18 @@
+# Errors Code and help
+
+Moldy is designed to make the developer and user usage easy here we show the error code and the solutions:
+
+## Code errors:
+
+1. Error with **1 code** error in the value this error is made by the value is incorrect the solution is detailed near of the error.
+2. Error with **2 code** error internal this error is made by the internal process failed report the error in the github for help in the project :D.
+3. Error with **3 code** error in the input of the user this error is made by the user not write the value spected or is bad process for fix the error the solution is detailed in the error.
+4. Error with **4 code** error in the database connection this error is made by the connection of the database not work properly report the bug in github for help in the project :D.
+5. Error with **5 code** error in the api connection this error is made by the bad connection of the api the error is detailed in the message field :D.
+6. Error with **6 code** error in find the value or the file this error is made by not found a file or a value the error is detailed in the message field :D.
+
+## Help to errors
+
+If you add a feat to moldy add here the code error following the structure 
+
+#### Made with ❤️ in the World by the Moldy Community Contributors.

@@ -37,3 +37,5 @@ localhost:3000
 5. Create a branch with your feat
 1. Open a pull request
 1. Jey! Welcome to the Moldy Community
+
+#### Made with ❤️ in the World by the Moldy Community Contributors.
