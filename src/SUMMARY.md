@@ -2,6 +2,7 @@
 
 - [Moldy Commands](commands/welcome_to_commands.md)
   - [Command Structure](commands/command_structure.md)
+  - [Errors Code and help](commands/errors_code.md)
 - [Moldy Book Introduction](introduction/moldy_book_introduction.md)
   - [History, use, philosophy](introduction/history_en.md)
   - [Contributors](introduction/contributors.md)

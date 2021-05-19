@@ -6,3 +6,5 @@ This book is created for know:
 - How contribute?
 - The blog help
 - Promote to the Contributors
+
+#### Made with ❤️ in the World by the Moldy Community Contributors.
