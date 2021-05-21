@@ -8,3 +8,4 @@
   - [Contributors](introduction/contributors.md)
 - [Moldy Blog](blog/welcome_to_blog.md)
   - [Hi to the Moldy Blog and Contribute](blog/hi_moldy_book.md)
+  - [Hi to the Moldy API](blog/hi_moldy_api.md)

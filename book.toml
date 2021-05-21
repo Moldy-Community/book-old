@@ -7,6 +7,7 @@ title = "Moldy Book and News"
 
 [output.html]
 theme = "./theme"
+additional-css = ["./theme/css/general.css"]
 copy-fonts = false
 mathjax-support = true
 site-url = "/book/"
